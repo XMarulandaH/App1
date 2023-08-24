@@ -7,4 +7,4 @@ st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfac
 st.write("Facilmente puedo realizar backend y frontend")
 image = Image.open('dedito.jpg')
 
-st.image(image, caption= 'Interfaces multimodales')
+st.image(image, caption= 'Aqui va un dedito arriba')
